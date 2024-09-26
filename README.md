@@ -55,3 +55,6 @@ Dans le cadre de la refonte du site d'une grande banque, une nouvelle interface 
 1. Clonez le repository :
    ```bash
    git clone https://github.com/LoussalMohammed/DeveloperBank.git
+
+# DeveloperBank
+df5e5f7a8e11bd4cf82eaa6ac9577541fa9dcd77
